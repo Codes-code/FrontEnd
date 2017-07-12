@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Project | Aarus</title>
+</head>
+
+<body>
+<h1>Welcome, wallsss have ears, they can hear you tanya!  </h1>
+<h2>yellow is cool </h2>   
+   <p>waow, i am amazed!</p>
+   <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi fugiat eius hic rerum eum ad voluptas atque aspernatur pariatur obcaecati quia veritatis esse, sequi sint est culpa ea. Iure veniam dicta culpa alias consectetur consequuntur in dolorem, <br>molestiae sunt quia commodi. voluptatum voluptatibus hic voluptas sapiente ipsum assumenda, facilis enim facere similique animi amet quod. Rerum, aspernatur.</p>
+<!--    waow this is a comment-->
+</body>
+</html>
+<!--from h1 to h6 there are 6 sizes for heading. we go to the next line with <br>-->
