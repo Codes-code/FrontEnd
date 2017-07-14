@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+  <div>
+   <h1>Lorem ipsum dolor sit amet, <span>consectetur</span> adipisicing elit. Alias, nobis.</h1>
+    <ol>
+        <li>1</li>
+        <li>2</li>
+        <li>3</li>
+        <li>4</li>
+        <li>5</li>
+    </ol>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt eveniet quia maiores quis voluptates, ab reprehenderit. Quae perferendis aliquam minima fugiat. Tenetur explicabo, amet dolor consequuntur praesentium, temporibus aut quasi asperiores iusto corrupti cupiditate!</p>
+    </div>
+</body>
+</html>
+<!--divisons are used for grouping. eg. one image and the text beneath it. span is used to seperate some words form others-->
