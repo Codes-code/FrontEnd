@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+   
+   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad sequi laudantium eos dolore, odit voluptas est iure error tempora deleniti reprehenderit, maiores enim corrupti ipsam, ex voluptatum. Vitae molestiae ea, provident alias explicabo molestias, dolore natus id harum obcaecati delectus.</p>
+   
+   <a href="https://www.google.com" target="_blank">GOOGLE</a>
+   
+   <img src="images/Veggies_Image.jpg" alt="waow, this looks fun.">
+    
+</body>
+</html>
+<!--img tab for an image and control space to select its folder. we use a tab for a link. for opening in new tabs, target _blank -->
