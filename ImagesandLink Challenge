@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Challenge</title>
+</head>
+<body>
+   <h1>I Am Heading One</h1>
+   <a href="https://www.google.com" target="_blank"><img src="images/Google_Image.png" alt="Google" height="120" width="127"></a>
+   <a href="https://www.slack.com" target="_blank"><img src="images/Slack_Image.jpeg" alt="Slack" width="160" height="96"></a>
+<ul>
+        <li><a href="https://www.google.com" target="_blank">Google</a></li>
+        <li><a href="https://www.Slack.com" target="_blank">Slack</a></li>
+        
+    </ul> 
+</body>
+</html>
+<!--to put a link in an image we do the opposite. put the image in the link-->
