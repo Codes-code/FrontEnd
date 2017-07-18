@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TABLES</title>
+</head>
+<body>
+  <h1>this is a random table </h1>
+   <table>
+       <tr>
+           <th>waow</th>
+           <th>waow2</th>
+           <th>waow3</th>
+       </tr>
+       <tr>
+           <td>waowow4</td>
+           <td>waowow3</td>
+           <td>waowow2</td>
+           
+       </tr>
+       <tr>
+           <td>asfd56</td>
+           <td>asfd34</td>
+           <td>asfd12</td>
+       </tr>
+   </table>
+    
+</body>
+</html>
+<!--table data ke liye td and table row ke liye tr and table heading ke liye th -->
