@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Forms</title>
+</head>
+<body>
+    <form action="">
+         First name:
+         
+         <input type="text" name="Waow" id="id_waow">
+         Last name: 
+         <input type="text" name="yeah" id="yup">
+         kinda my type:
+         <input type="checkbox" name="sjsjsjssjsj " id="">
+         i really want it to work 
+         
+         <input type="submit"> 
+         <input type="password">
+    </form>
+    
+    <select name="waow1" id="waow2">
+        <option value="waow3">select</option>
+        <option value="waow3">1</option>
+        <option value="waow4">2</option>
+        <option value="waow5">3</option>
+        <option value="waow6">4</option>
+        <option value="waow6">5</option>
+        <option value="waow6">6</option>
+        <option value="waow6">7</option> 
+        <option value="waow6">8</option>
+    </select>
+<!--    drop dwon menu-->
+<textarea name="waow" id="waow2" cols="90" rows="7"></textarea>
+</body>
+</html>
+<!--we put submit inside so that it itself submits the form when clicked-->
